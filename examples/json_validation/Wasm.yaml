@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 1.0.0
+name: json_validator
+description: Validate JSON
